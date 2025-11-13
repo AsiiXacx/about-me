@@ -1,7 +1,7 @@
 # Hello There 👋🏽
 
 I'm just an ordinary **Roblox Scripter**.  
-**Lua Developer** | Passionate about creating scripts and tools for Roblox 🛠️
+**Lua Semi-Dev** | Passionate about creating scripts and tools for Roblox 🛠️
 
 ---
 
@@ -14,7 +14,7 @@ I'm just an ordinary **Roblox Scripter**.
 - Roblox Lua Scripting
 - GUI & Game Automation
 - Game Mechanics & Teleport Systems
-- UI/UX & Scripts
+- UI/UX for Scripts
 
 ---
 
@@ -24,10 +24,5 @@ I'm just an ordinary **Roblox Scripter**.
 
 ---
 
-## 📊 GitHub Stats
-
-![AcxTheScripter's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcxTheScripter&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AcxTheScripter&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AcxTheScripter&theme=radical&hide_border=true)
+## ⚡ Fun Fact
+I love making **dark-themed red scripts** that are clean and efficient :D
